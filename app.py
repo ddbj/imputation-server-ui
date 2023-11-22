@@ -24,6 +24,8 @@ config_directory = "CONFIG_DIRECTORY"
 
 command_path = "COMMAND_PATH"
 
+toil_config_directory = "toilconfig/"
+
 # コマンドを実行する関数
 def run_command(command):
     try:
@@ -113,7 +115,7 @@ def new_ui():
         ### 現在時刻から、ファイル名を生成する。
         current_datetime = datetime.datetime.now()
         formatted_datetime = current_datetime.strftime("%Y%m%d%H%M%S")
-        file_name = "toilconfig/toilconfig_" + formatted_datetime + ".yaml"
+        file_name = toil_config_directory + "/"+"toilconfig_" + formatted_datetime + ".yaml"
         with open(file_name, 'w') as file:
             # ファイルに文字列を書き込む
             file.write(configcontent)
