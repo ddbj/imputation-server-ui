@@ -59,7 +59,7 @@ https://hibag.s3.amazonaws.com/./download/HLARES/HumanExome12-European-HLA2-hg19
 https://hibag.s3.amazonaws.com/./download/HLARES/HumanExome12-Asian-HLA2-hg19.RData
 https://hibag.s3.amazonaws.com/./download/HLARES/HumanExome12-Hispanic-HLA2-hg19.RData
 https://hibag.s3.amazonaws.com/./download/HLARES/HumanExome12-African-HLA2-hg19.RData
-https://hibag.s3.amazonaws.com/Models_HLARES/HumanExome12-Broad-HLA2-hg19.RData
+https://hibag.s3.amazonaws.com/./download/HLARES/HumanExome12-Broad-HLA2-hg19.RData
 https://hibag.s3.amazonaws.com/./download/HLARES/HumanExome12-European-HLA4-hg19.RData
 https://hibag.s3.amazonaws.com/./download/HLARES/HumanExome12-Asian-HLA4-hg19.RData
 https://hibag.s3.amazonaws.com/./download/HLARES/HumanExome12-Hispanic-HLA4-hg19.RData
